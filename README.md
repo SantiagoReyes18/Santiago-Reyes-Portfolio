@@ -8,7 +8,7 @@ Feel free to reach me on my [Linkedin. ](https://www.linkedin.com/in/santiagoare
 
 # [Project 1: Createch Infographic](https://github.com/SantiagoReyes18/Createch-Sample-Dashboard)
 
-This project consist of a infographic of some key information of the company Createch. The users can interact with this dashboard by switching from languages (English, French and Spanish).
+This project consist of an infographic of some key information of the company Createch. The users can interact with this dashboard by switching from languages (English, French and Spanish).
 
 # [Project 2: Kaleyra Demo Dashboard](https://github.com/SantiagoReyes18/Kaleyra-Sample-Dashboard)
 
