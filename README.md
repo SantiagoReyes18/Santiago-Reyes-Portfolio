@@ -10,6 +10,10 @@ Feel free to reach me on my [Linkedin. ](https://www.linkedin.com/in/santiagoare
 
 This project consist of an infographic of some key information of the company Createch. The users can interact with this dashboard by switching from languages (English, French and Spanish).
 
+## Preview Snapshot: ![](Images/Createch_Preview.png)
+
 # [Project 2: Kaleyra Demo Dashboard](https://github.com/SantiagoReyes18/Kaleyra-Sample-Dashboard)
 
 This project consist of a simple financial dashboard that showcases the historical stock prices data of the company Kaleyra.
+
+## Preview Snapshot: ![](Images/Kaleyra_Preview.png)
