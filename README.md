@@ -1,5 +1,4 @@
-# Santiago-Reyes-Portfolio
-Power BI Portfolio
+# Santiago-Reyes'-Power_BI-Portfolio
 
 # [Project 1: Createch Infographic](https://github.com/SantiagoReyes18/Createch-Sample-Dashboard)
 
