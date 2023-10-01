@@ -1,6 +1,6 @@
 # Santiago Reyes' Portfolio
 
-This is my personal Portfolio where I will be showcasing some of the data analytics and data visualization projects that i have developed.
+This is my personal Portfolio where I will be showcasing some of the data analytics and data visualization projects that I have developed.
 
 All projects contain information that is publicly available. 
 
