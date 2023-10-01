@@ -1,4 +1,4 @@
-# Santiago-Reyes'-Power_BI-Portfolio
+# Santiago Reyes' Portfolio
 
 This is my personal Portfolio where I will be showcasing some of the data analytics and data visualization projects that i have developed.
 
