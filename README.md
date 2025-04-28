@@ -6,13 +6,20 @@ All projects contain information that is publicly available.
 
 Feel free to reach me on my [Linkedin. ](https://www.linkedin.com/in/santiagoareyes/)
 
-# [Project 1: Createch Infographic](https://github.com/SantiagoReyes18/Createch-Sample-Dashboard)
+# [Project 1: Toronto Central Real State Dashboard](https://github.com/SantiagoReyes18/Real_State_Dashboard)
+
+This project consist of a Real State Dashboard for Toronto Central, it was developed to visualize key real estate performance indicators. It displays metrics such as units sold, average sold price, and total sold price, with year-over-year comparisons. The dashboard features dynamic filters (e.g., property age, square footage, number of bedrooms) and interactive elements like geographic mapping, time series trends, and category breakdowns by housing type and municipality district. It was designed to deliver a clean, responsive, and user-friendly experience, supporting strategic insights through effective data storytelling.
+
+## Preview Snapshot: ![](Images/real_state_dashboard_1.png)
+## Preview Snapshot: ![](Images/real_state_dashboard_2.png)
+
+# [Project 2: Createch Infographic](https://github.com/SantiagoReyes18/Createch-Sample-Dashboard)
 
 This project consist of an infographic of some key information of the company Createch. The users can interact with this dashboard by switching from languages (English, French and Spanish).
 
 ## Preview Snapshot: ![](Images/Createch_Preview.png)
 
-# [Project 2: Kaleyra Demo Dashboard](https://github.com/SantiagoReyes18/Kaleyra-Sample-Dashboard)
+# [Project 3: Kaleyra Demo Dashboard](https://github.com/SantiagoReyes18/Kaleyra-Sample-Dashboard)
 
 This project consist of a simple financial dashboard that showcases the historical stock prices data of the company Kaleyra.
 
